@@ -15,6 +15,7 @@ This project is an IoT application created using Tinkercad. It involves displayi
 ## Description
 
 This IoT project displays real-time values from solar panels on a 16x2 I2C LCD using an Arduino Uno R3. The project is designed and simulated in Tinkercad, making it easy to replicate and understand.
+[Live TinkerCad](https://www.tinkercad.com/things/hZc9Om3w0xW-solar-panels-value-print-in-i2c-lcd-display-using-arduino)
 
 ## Components Used
 
