@@ -29,9 +29,4 @@ This IoT project displays real-time values from solar panels on a 16x2 I2C LCD u
 - Connecting Wires
 - Breadboard (optional, depending on setup)
 
-## Circuit Diagram
 
-![Circuit Diagram](path/to/circuit.png)
-
-## Code
-![Code](path/to/solarpanel.cpp)
